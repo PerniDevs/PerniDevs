@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PerniDevs
-- 👀 I’m interested in Python and AI development 
+- 👀 I’m interested in Aerospace Projects, which include AI and ML  
 - 🌱 I’m currently learning Computer Vision and Deep Learning
 - 💞️ I’m looking to collaborate on Healthcare and High tech 
 - 📫 How to reach me contact: pernigotti.developments@gmail.com

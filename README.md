@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PerniDevs
-- 👀 I’m interested in Aerospace Projects, which include AI and ML  
+- 👀 I’m interested in Engineering Projects  
 - 🌱 I've learned Deep Learning, Computer Vision and GNSS
 - 💞️ I’m looking to collaborate on High Tech 
 - 📫 How to reach me contact: pernigotti.developments@gmail.com or at agustin.pernigotti@outlook.com
